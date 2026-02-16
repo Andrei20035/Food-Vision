@@ -73,8 +73,6 @@ Epochs               | Up to 100 (early stopped)              |
 - Best model weights saved automatically  
 - Training vs validation loss curves plotted to verify convergence  
 
-> 📌 Exact accuracy metrics can be added after full training evaluation.
-
 ---
 
 ## 🧩 Key ML Concepts Demonstrated
